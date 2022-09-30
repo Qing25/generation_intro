@@ -1,0 +1,5 @@
+
+pytorch-lightning==1.7.3
+Q-snippets-Qing25==0.0.8
+torch==1.12.1+cu116
+transformers==4.22.1
